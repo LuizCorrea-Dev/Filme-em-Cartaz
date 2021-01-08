@@ -1,5 +1,5 @@
 ## instalação
-react-native init rn1
+react-native init Filme-em-Cartaz
 ## rodar o projeto 
 react-native run-android
 
